@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=
+comment1.target=Cliente()
+comment2.params=Nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=Documento
+comment4.target=void\ setDocumento(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDocumento()
+numComments=6
